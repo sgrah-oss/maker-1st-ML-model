@@ -6,6 +6,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+maker-workshop/
 .Python
 env/
 build/
